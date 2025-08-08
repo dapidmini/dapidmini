@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### Hi, I'm David Santana 👋
+## Hi, I'm David Santana 👋
 
 ![header banner](img/github-header-banner.png)
 
